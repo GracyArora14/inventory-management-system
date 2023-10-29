@@ -1,30 +1,23 @@
-import { useState } from 'react'
+import './App.css';
+import { Route , Routes } from 'react-router-dom';
+import Login from './Login';
 
-import './App.css'
+
+
 
 function App() {
   
 
   return (
     <>
-      <div>
-        Inventory management system 
-      </div>
-      <div>
-        Add whatever u want psoks osnhjd osjnsj 
-      </div>
-      <div>
-        hoja yaar ndjjnd
-      </div>
-      <div>
-        jbfhdbshbhb jbdskjbd
-      </div>
-      <div>
-        jbfhdbshbhb jbdskjbd
-      </div>
-       
+<div className='text-white h-[100vh] flex justify-center items-center bg-cover' style={{"backgroundImage":"url('../src/assets/bg.jpeg"}}>
+     <Routes>
+       <Route path='login' element={ <Login/>}/>
+     </Routes>
+    </div>
+    
     </>   
   )
 }
-
+ 
 export default App

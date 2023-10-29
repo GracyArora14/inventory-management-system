@@ -17,7 +17,10 @@ function App() {
         hoja yaar ndjjnd
       </div>
       <div>
-        jbfhdbshbhb
+        jbfhdbshbhb jbdskjbd
+      </div>
+      <div>
+        jbfhdbshbhb jbdskjbd
       </div>
        
     </>   

@@ -19,7 +19,7 @@ function App() {
         hoja yaar ndjjnd
       </div>
        
-    </>
+    </>   
   )
 }
 

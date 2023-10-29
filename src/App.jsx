@@ -13,7 +13,10 @@ function App() {
         Inventory management system 
       </div>
       <div>
-        Add whatever u want 
+        Add whatever u want psoks osnhjd osjnsj 
+      </div>
+      <div>
+        hoja yaar ndjjnd
       </div>
        
     </>
